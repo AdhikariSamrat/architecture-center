@@ -22,12 +22,12 @@ Quorum Blockchain Service (QBS) is a managed ledger service from Consensys. It a
 
 ## Features
 
-- QBS leverages Ethereum ledger and Istanbul Byzantine Fault Tolerance (IBFT) Proof-of-Authority (PoA) consensus mechanism
-- QBS currently supports GoQuorum ledger protocol
-- QBS supports open-source clients and tools such as Truffle, MetaMask, Solidity and Geth
-- QBS provides extensions for Visual Studio Code
+- Leverages Ethereum ledger and Istanbul Byzantine Fault Tolerance (IBFT) Proof-of-Authority (PoA) consensus mechanism
+- Supports GoQuorum ledger protocol
+- Supports open-source clients and tools such as Truffle, MetaMask, Solidity and Geth
+- Provides extensions for Visual Studio Code
   - Users can also build and deploy smart contracts to QBS via Visual Studio Code
-- QBS provides management APIs and supports monitoring and logging of blockchain nodes with integration to Azure Monitor.  
+- Provides management APIs and supports monitoring and logging of blockchain nodes with integration to Azure Monitor.  
 
 ## Getting Started
 
