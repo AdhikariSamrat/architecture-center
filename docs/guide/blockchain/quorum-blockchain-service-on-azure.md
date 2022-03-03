@@ -32,9 +32,12 @@ Quorum Blockchain Service (QBS) is a managed ledger service from Consensys. It a
 ## Getting Started
 
 QBS comes in multiple tiers – developer, business, and enterprise. For detail comparison visit: [Quorum Blockchain Service | ConsenSys](https://consensys.net/quorum/qbs/) 
+
 QBS is currently only accessible as a Private offering on Azure. You will need to either:
   -	Click “Contact Me” on [Microsoft Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/consensys.qbs-contact-me?tab=Overview) 
-    ![Diagram shows highlighted Contact Me part of QBS Marketplace.](images/Quorum-Blockchain-Service-Marketplace.png)
+
+ ![Diagram shows highlighted Contact Me part of QBS Marketplace.](images/Quorum-Blockchain-Service-Marketplace.png)
+
   - Inquire directly with [QBS Support](https://quorum-support.zendesk.com/hc/en-us/restricted?return_to=https%3A%2F%2Fquorum-support.zendesk.com%2Fhc%2Fen-us) 
 After confirmation of access from Consensys, you will then be able to add QBS via “Create a Resource” options in Azure Portal. 
 
