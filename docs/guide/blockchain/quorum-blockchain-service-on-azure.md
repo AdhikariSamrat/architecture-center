@@ -14,7 +14,7 @@ categories:
 ms.custom: blockchain
 ---
 
-# H1 Quorum Blockchain Service on Azure
+# Quorum Blockchain Service on Azure
 
 Quorum Blockchain Service (QBS) is a managed ledger service from Consensys. It allows organizations to run their own blockchain network for their needs without having to deal with infrastructure management. 
 
